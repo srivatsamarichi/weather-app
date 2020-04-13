@@ -1,10 +1,9 @@
 # Weather App
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b66d2477a3194e59aae26a82163b61d3)](https://app.codacy.com/manual/srivatsams/weather-app?utm_source=github.com&utm_medium=referral&utm_content=srivatsamarichi/weather-app&utm_campaign=Badge_Grade_Settings)
-
-[![Build status](https://build.appcenter.ms/v0.1/apps/d9080f57-9301-456a-b339-2b3c3bed3f9b/branches/master/badge)](https://appcenter.ms)
-
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=srivatsamarichi_weather-app)
+|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b66d2477a3194e59aae26a82163b61d3)](https://app.codacy.com/manual/srivatsams/weather-app?utm_source=github.com&utm_medium=referral&utm_content=srivatsamarichi/weather-app&utm_campaign=Badge_Grade_Settings) |
+|--------------------------------------|
+|[![Build status](https://build.appcenter.ms/v0.1/apps/d9080f57-9301-456a-b339-2b3c3bed3f9b/branches/master/badge)](https://appcenter.ms)|
+|[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=srivatsamarichi_weather-app)](https://sonarcloud.io/dashboard?id=srivatsamarichi_weather-app)|
 
 WeatherApp is a sample app that retrieves weather data from OpenWeatherMap.
 
