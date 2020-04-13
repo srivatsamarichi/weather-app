@@ -4,7 +4,7 @@
 
 [![Build status](https://build.appcenter.ms/v0.1/apps/d9080f57-9301-456a-b339-2b3c3bed3f9b/branches/master/badge)](https://appcenter.ms)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=srivatsamarichi_weather-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=srivatsamarichi_weather-app)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=srivatsamarichi_weather-app)
 
 WeatherApp is a sample app that retrieves weather data from OpenWeatherMap.
 
