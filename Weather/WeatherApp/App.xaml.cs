@@ -24,6 +24,7 @@ namespace WeatherApp
                   "uwp={Your UWP App secret here};" +
                   "ios={Your iOS App secret here}",
                   typeof(Analytics), typeof(Crashes));
+            Analytics.TrackEvent("Update");
         }
 
         protected override void OnSleep()
