@@ -43,7 +43,7 @@
     <AndroidUseSharedRuntime>true</AndroidUseSharedRuntime>
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidSupportedAbis />
-    <AndroidKeyStore>true</AndroidKeyStore>
+    <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSigningKeyStore>D:\Code Samples\test.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>P2ssw0rd</AndroidSigningStorePass>
     <AndroidSigningKeyPass>P2ssw0rd</AndroidSigningKeyPass>
