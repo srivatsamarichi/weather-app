@@ -26,7 +26,7 @@
     </ContentPage.Resources>
 
     <StackLayout>
-        <Grid BackgroundColor="BlueViolet" 
+        <Grid BackgroundColor="#FF5733" 
               Padding="10,20,10,10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
